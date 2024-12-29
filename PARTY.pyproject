@@ -1,0 +1,12 @@
+{
+    "files": [
+        "home_window.py",
+        "conexion.py",
+        "login_window.py",
+        "main.py",
+        "test_pymysql.py",
+        "product_window.py",
+        "add_product.py",
+        "add_product_dialog.py"
+    ]
+}
